@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/e51dc411-b3dd-431a-814a-afb1f75cf14f
 # An example Bauplan pipeline
 
 ## 🚀 Overview
