@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/e51dc411-b3dd-431a-814a-afb1f75cf14f
 # An example Bauplan pipeline
 
 ## 🚀 Overview
@@ -56,5 +58,7 @@ For more details, you can check out the deep-dive article here.
     ```bash
     streamlit run streamlit/app.py
 ## 📺 Streamlit Demo
+https://github.com/user-attachments/assets/607b8da1-bd35-4c77-8844-95287e34b188
+
 
 
