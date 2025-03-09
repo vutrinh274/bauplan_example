@@ -1,0 +1,4 @@
+bauplan
+duckdb
+streamlit
+streamlit_ace
