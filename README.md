@@ -52,14 +52,15 @@ For more details, you can check out the deep-dive article here.
 8. Run the Bauplan pipeline
     ```bash
     bauplan run --project-dir pipeline --namespace adventure
-   
-https://github.com/user-attachments/assets/13622bed-f3e5-454c-a94c-e6d9ce5a4d50
+    
+https://github.com/user-attachments/assets/e6af1c5f-a5b3-416e-872d-50ddfb81cc49
 
 9. Run the Streamlit app
     ```bash
     streamlit run streamlit/app.py
 ## 📺 Streamlit Demo
-https://github.com/user-attachments/assets/607b8da1-bd35-4c77-8844-95287e34b188
+
+https://github.com/user-attachments/assets/fb1fa1e6-7fc3-43c2-b138-799098937c59
 
 
 
