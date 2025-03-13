@@ -51,7 +51,10 @@ For more details, you can check out the deep-dive article here.
    ./scripts/setup.sh <bucket name> <bauplan branch>
 8. Run the Bauplan pipeline
     ```bash
-    bauplan run --project-dir pipeline --namespace adventure 
+    bauplan run --project-dir pipeline --namespace adventure
+   
+https://github.com/user-attachments/assets/13622bed-f3e5-454c-a94c-e6d9ce5a4d50
+
 9. Run the Streamlit app
     ```bash
     streamlit run streamlit/app.py
